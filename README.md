@@ -11,6 +11,7 @@ Analyzed 4+ years of retail sales data for a fictional superstore to uncover tre
 - dashboard link: https://public.tableau.com/shared/P5XDHF495?:display_count=n&:origin=viz_share_link<img
 - ![Dashboard Screenshot] <img width="1440" height="763" alt="Screenshot 2026-04-22 at 8 18 20 PM" src="https://github.com/user-attachments/assets/c8885329-2c07-4dba-9b37-7d31acb5a832" />
 <img width="1440" height="820" alt="Screenshot 2026-04-22 at 8 17 32 PM" src="https://github.com/user-attachments/assets/6f5f59ec-10f4-4e0d-9b09-4f5dc82be274" />
+
 - ## What I Learned
 - Built interactive dashboards with filters and calculated fields
 - Translated raw data into clear business recommendations
